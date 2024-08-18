@@ -19,11 +19,13 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiba0717&theme=vue-dark&layout=compact" />
 </div>
 
-## 📖 Learning
+## 📖 Learning History
 <div align="left">
   <ul>
-    <li>
-      Udemy <a href="https://www.udemy.com/course/gasmore1/">【業務自動化をゼロからマスター】Google Apps Script(GAS)の仕事効率化・自動化をプログラミングで実現</a>
-    </li>
+    <li>Udemy <a href="https://www.udemy.com/course/gasmore1/" target=_blank>【業務自動化をゼロからマスター】Google Apps Script(GAS)の仕事効率化・自動化をプログラミングで実現</a></li>
+    <li>Udemy <a href="https://www.udemy.com/course/git-beginning/" target=_blank>ちゃんと学ぶ、Git/GitHub・SourceTree講座</a></li>
+    <li>Udemy <a href="https://www.udemy.com/course/aws-associate/" target=_blank>【SAA-C03版】これだけでOK！ AWS 認定ソリューションアーキテクト – アソシエイト試験突破講座</a></li>
+    <li>Udemy <a href="https://www.udemy.com/course/docker-k/" target=_blank>ゼロからはじめる Dockerによるアプリケーション実行環境構築</a></li>
+    <li>Udemy <a href="https://www.udemy.com/course/python-scraping-beginner/" target=_blank>PythonによるWebスクレイピング〜入門編</a></li>
   </ul>
 </div>
