@@ -27,5 +27,8 @@
     <li>Udemy <a href="https://www.udemy.com/course/aws-associate/" target=_blank>【SAA-C03版】これだけでOK！ AWS 認定ソリューションアーキテクト – アソシエイト試験突破講座</a></li>
     <li>Udemy <a href="https://www.udemy.com/course/docker-k/" target=_blank>ゼロからはじめる Dockerによるアプリケーション実行環境構築</a></li>
     <li>Udemy <a href="https://www.udemy.com/course/python-scraping-beginner/" target=_blank>PythonによるWebスクレイピング〜入門編</a></li>
+    <li>Udemy <a href="https://www.udemy.com/course/aws-associate/" target=_blank>SAA-C03版】これだけでOK！ AWS 認定ソリューションアーキテクト – アソシエイト試験突破講座</a></li>
+    <li>Udemy <a href="https://www.udemy.com/course/3daywordpress/" target=_blank>プログラミング不要！】2日でできるWordPress超入門</a></li>
+    <li>Udemy <a href="https://www.udemy.com/course/phpbeginnertolaravel/" target=_blank>PHPからLaravelまで サーバーサイドをとことんやってみよう</a></li>
   </ul>
 </div>
